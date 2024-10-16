@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_403257" data-name="Rectángulo 403257" width="22.32" height="21.77" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1102229" data-name="Grupo 1102229" transform="translate(-180.051 -614)">
+    <g id="Grupo_1102227" data-name="Grupo 1102227">
+      <g id="Grupo_1102226" data-name="Grupo 1102226">
+        <g id="Grupo_1102224" data-name="Grupo 1102224">
+          <g id="Grupo_1102220" data-name="Grupo 1102220" transform="translate(0.026)">
+            <rect id="Rectángulo_402998" data-name="Rectángulo 402998" width="50" height="50" transform="translate(180.024 614)" fill="#ffc7b8"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_1101498" data-name="Grupo 1101498" transform="translate(-3 -621.5)">
+      <g id="Grupo_1101472" data-name="Grupo 1101472" transform="translate(190.051 1242.5)">
+        <g id="Grupo_1101199" data-name="Grupo 1101199">
+          <path id="Trazado_911258" data-name="Trazado 911258" d="M18,0A18,18,0,1,1,0,18,18,18,0,0,1,18,0Z" transform="translate(0 0)" fill="#3c3c3c"/>
+        </g>
+      </g>
+      <g id="Grupo_1101509" data-name="Grupo 1101509" transform="translate(197.051 1249.499)">
+        <path id="Trazado_911797" data-name="Trazado 911797" d="M42.122,0,40.874,1.247,38.56,3.562,37.312,4.809,35,7.124,33.75,8.371l1.277,1.277,1.157,1.157,1.248-1.248L36.275,8.4l2.314-2.314,5.867,5.867-1.233,1.233L44.5,14.463l3.713-3.713L46.937,9.473,45.7,10.706,39.837,4.839l2.314-2.314,1.157,1.157,1.248-1.248L43.4,1.277,42.122,0Z" transform="translate(-25.893 0)" fill="#b6b5b6"/>
+        <g id="Grupo_1101508" data-name="Grupo 1101508" transform="translate(0 0)">
+          <g id="Grupo_1101507" data-name="Grupo 1101507" transform="translate(0 0)" clip-path="url(#clip-path)">
+            <path id="Trazado_911798" data-name="Trazado 911798" d="M20.417,45.848a.566.566,0,0,0-.655.46c-.009.049-.019.115-.032.2-.309,1.983-.673,2.477-.862,2.6a1.908,1.908,0,0,1-.954.283,2.33,2.33,0,0,1-1.708-.691L5.905,38.509a3.5,3.5,0,0,0-1.565-.9,3.636,3.636,0,0,0-2.551.195A3.046,3.046,0,0,0,.175,39.49a3.009,3.009,0,0,0,0,2.005.566.566,0,0,0,1.07-.37,1.872,1.872,0,0,1,0-1.243,1.961,1.961,0,0,1,1.048-1.059,2.492,2.492,0,0,1,1.767-.117,2.368,2.368,0,0,1,1.056.608L15.41,49.5a3.478,3.478,0,0,0,2.428,1.019l.118,0a3.03,3.03,0,0,0,1.512-.454c.834-.52,1.167-2,1.382-3.382.011-.073.02-.132.028-.176a.566.566,0,0,0-.46-.655" transform="translate(0 -28.747)" fill="#b6b5b6"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
