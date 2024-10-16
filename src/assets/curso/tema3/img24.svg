@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="Grupo_1102219" data-name="Grupo 1102219" transform="translate(-180 -3452.566)">
+    <rect id="Rectángulo_403073" data-name="Rectángulo 403073" width="50" height="50" transform="translate(180 3452.566)" fill="#ffc7b8"/>
+    <g id="Grupo_1101288" data-name="Grupo 1101288" transform="translate(0 2838.566)">
+      <g id="Grupo_1101199" data-name="Grupo 1101199" transform="translate(-0.024 -157)">
+        <path id="Trazado_911258" data-name="Trazado 911258" d="M15.5,0A15.5,15.5,0,1,1,0,15.5,15.5,15.5,0,0,1,15.5,0Z" transform="translate(190.051 781)" fill="#3c3c3c"/>
+      </g>
+      <g id="Grupo_1101292" data-name="Grupo 1101292" transform="translate(197.443 632.225)">
+        <rect id="Rectángulo_403080" data-name="Rectángulo 403080" width="15.271" height="13.656" transform="translate(0.447 0.447)" fill="#676868"/>
+        <path id="Trazado_911389" data-name="Trazado 911389" d="M.895.895H15.271V13.656H.895ZM0,14.551H16.166V0H0Z" fill="#b6b5b6"/>
+      </g>
+    </g>
+  </g>
+</svg>

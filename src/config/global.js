@@ -117,32 +117,76 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
-    },
-    {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Herramienta bote de pintura interactiva.',
+      referencia:
+        'Stefan, A. (2016). 10 Herramientas de Illustrator que todo diseñador debería estar usando.',
+      tipo: 'Artículo',
+      link:
+        'https://design.tutsplus.com/es/tutorials/10-herramientas-de-illustrator-que-todo-disenador-deberia-estar-usando--cms-25968',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Texto de la definición',
+      termino: '<i>Artboard</i>',
+      significado:
+        'área delimitada en la que se crea y edita contenido, similar a una página en un documento impreso.',
     },
     {
-      termino: '<em>Término con extranjerismo</em>',
-      significado: 'Definición',
+      termino: 'Barra de herramientas',
+      significado:
+        'conjunto de herramientas en Adobe Illustrator que permite crear y modificar gráficos vectoriales.',
+    },
+    {
+      termino: 'Cuentagotas',
+      significado:
+        'herramienta que permite copiar atributos de color y estilo de un objeto y aplicarlos a otro.',
+    },
+    {
+      termino: 'Degradado',
+      significado:
+        'transición suave entre dos o más colores que se aplica a objetos vectoriales.',
+    },
+    {
+      termino: 'Herramienta de selección',
+      significado:
+        'permite seleccionar, mover y transformar objetos enteros en la mesa de trabajo.',
+    },
+    {
+      termino: 'Lazo',
+      significado:
+        'herramienta que permite realizar una selección libre a mano alzada alrededor de puntos de ancla o segmentos de trazado.',
+    },
+    {
+      termino: 'Malla',
+      significado:
+        'herramienta que permite crear degradados complejos dentro de un objeto vectorial.',
+    },
+    {
+      termino: 'Pincel',
+      significado:
+        'herramienta que dibuja trazos siguiendo un patrón predefinido, con distintas formas, texturas y tamaños.',
+    },
+    {
+      termino: 'Selección de grupos',
+      significado:
+        'herramienta que permite seleccionar y manipular elementos individuales dentro de un grupo sin desagruparlos.',
+    },
+    {
+      termino: 'Texto en trazado',
+      significado:
+        'permite escribir texto a lo largo de una línea curva o trazado.',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia: 'Adobe. (2015). Ayuda de Adobe Illustrator CC. ',
+      link:
+        'https://helpx.adobe.com/archive/es/illustrator/cc/2015/illustrator_reference.pdf',
+    },
+    {
+      referencia:
+        'Adobe (2024). Presentación de la Guía del usuario de Illustrator. ',
+      link: 'https://helpx.adobe.com/co/illustrator/user-guide.html',
     },
   ],
   creditos: [
@@ -165,8 +209,13 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
+          nombre: 'José Luis Díaz Carrillo',
+          cargo: 'Experto temático',
+          centro: 'Centro Agroindustrial - Regional Quindío',
+        },
+        {
+          nombre: 'Ana Catalina Córdoba Sus',
+          cargo: 'Evaluadora instruccional',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
@@ -175,35 +224,35 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Blanca Flor Tinoco Torres',
           cargo: 'Diseñador de contenidos',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Jhon Jairo Urueta Alvarez',
           cargo: 'Desarrollador <i>full stack</i>',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
-        {
-          nombre: 'Nombre',
-          cargo: 'Animador y productor audiovisual',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
+        //{
+        //  nombre: 'Nombre',
+        //  cargo: 'Animador y productor audiovisual',
+        //  centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        //},
       ],
     },
     {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
-        {
-          nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Jaime Hernán Tejada Llano',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
+        //{
+        //  nombre: 'Luis Gabriel Urueta Alvarez',
+        //  cargo: 'Validador y vinculador de recursos educativos digitales',
+        //  centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        //},
+        //{
+        //  nombre: 'Jaime Hernán Tejada Llano',
+        //  cargo: 'Validador y vinculador de recursos educativos digitales',
+        //  centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        //},
         {
           nombre: 'Daniel Ricardo Mutis Gómez',
           cargo: 'Evaluador de contenidos inclusivos y accesibles',

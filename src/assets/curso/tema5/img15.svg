@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_403375" data-name="Rectángulo 403375" width="22.603" height="18.749" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1102227" data-name="Grupo 1102227" transform="translate(-180 -3411.5)">
+    <rect id="Rectángulo_403370" data-name="Rectángulo 403370" width="50" height="50" transform="translate(180 3411.5)" fill="#ffc7b8"/>
+    <g id="Grupo_1101602" data-name="Grupo 1101602" transform="translate(0 2797.5)">
+      <g id="Grupo_1101199" data-name="Grupo 1101199" transform="translate(0 -156.5)">
+        <path id="Trazado_911258" data-name="Trazado 911258" d="M15.5,0A15.5,15.5,0,1,1,0,15.5,15.5,15.5,0,0,1,15.5,0Z" transform="translate(190.051 781)" fill="#3c3c3c"/>
+      </g>
+      <g id="Grupo_1101603" data-name="Grupo 1101603" transform="translate(194.051 630.5)">
+        <g id="Grupo_1101603-2" data-name="Grupo 1101603" transform="translate(0 0.001)" clip-path="url(#clip-path)">
+          <path id="Trazado_911815" data-name="Trazado 911815" d="M6.377,12.153A5.06,5.06,0,0,0,9.82,8.266h.595v-1.4H9.863A5.04,5.04,0,0,0,6.381,2.673a6.615,6.615,0,0,1,2.9-1.349,6.271,6.271,0,0,1,7.5,6.088,5.765,5.765,0,0,1-.118,1.226L17.916,9.89a7.379,7.379,0,0,0-.344-5.79A7.246,7.246,0,0,0,5.583,2.5,4.66,4.66,0,0,0,5.1,2.467a4.947,4.947,0,1,0,0,9.89,4.714,4.714,0,0,0,.479-.033,7.067,7.067,0,0,0,5.649,2.5,7.36,7.36,0,0,0,2.036-.356V12.993c-.105.051-.213.1-.321.142a6.539,6.539,0,0,1-6.567-.982M5.1,11.62A4.211,4.211,0,1,1,9.433,6.866H9.015v1.4h.368A4.223,4.223,0,0,1,5.1,11.62" transform="translate(0 0)" fill="#b6b5b6"/>
+          <path id="Trazado_911816" data-name="Trazado 911816" d="M69.4,31.583V44.11l3.722-3.639,5.208.042Z" transform="translate(-55.728 -25.361)" fill="#b6b5b6"/>
+          <rect id="Rectángulo_403371" data-name="Rectángulo 403371" width="1.4" height="1.4" transform="translate(2.763 6.865)" fill="#b6b5b6"/>
+          <rect id="Rectángulo_403372" data-name="Rectángulo 403372" width="1.4" height="1.4" transform="translate(4.847 6.865)" fill="#b6b5b6"/>
+          <rect id="Rectángulo_403373" data-name="Rectángulo 403373" width="1.4" height="1.4" transform="translate(6.931 6.866)" fill="#b6b5b6"/>
+          <rect id="Rectángulo_403374" data-name="Rectángulo 403374" width="1.4" height="1.4" transform="translate(11.099 6.866)" fill="#b6b5b6"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
