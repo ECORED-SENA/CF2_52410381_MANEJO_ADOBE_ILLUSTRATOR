@@ -196,16 +196,16 @@
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul1")
           .row(titulo="Crear mesas de trabajo")
             .col-12
-              p.mb-0 haciendo clic y arrastrando con la herramienta activada, puede dibujar una nueva mesa de trabajo en cualquier parte del lienzo. Se pueden crear múltiples mesas de trabajo dentro de un mismo documento, lo que es ideal para diseñar diferentes elementos de un proyecto, como tarjetas de presentación, folletos, carteles, o pantallas de una interfaz de usuario.
+              p.mb-0 Haciendo clic y arrastrando con la herramienta activada, puede dibujar una nueva mesa de trabajo en cualquier parte del lienzo. Se pueden crear múltiples mesas de trabajo dentro de un mismo documento, lo que es ideal para diseñar diferentes elementos de un proyecto, como tarjetas de presentación, folletos, carteles, o pantallas de una interfaz de usuario.
           .row(titulo="Redimensionar mesas de trabajo")
             .col-12
-              p.mb-0 para cambiar el tamaño de una mesa de trabajo existente, seleccione la herramienta y haga clic en la mesa de trabajo que desee modificar. Luego, ajuste las dimensiones arrastrando los bordes o ingresando valores exactos en el panel de control que aparece en la parte superior de la pantalla.
+              p.mb-0 Para cambiar el tamaño de una mesa de trabajo existente, seleccione la herramienta y haga clic en la mesa de trabajo que desee modificar. Luego, ajuste las dimensiones arrastrando los bordes o ingresando valores exactos en el panel de control que aparece en la parte superior de la pantalla.
           .row(titulo="Mover mesas de trabajo")
             .col-12
-              p.mb-0 puede mover una mesa de trabajo a una nueva ubicación dentro del lienzo simplemente seleccionándola y arrastrándola al lugar deseado. Esto es útil cuando se necesita reorganizar el contenido de su proyecto o ajustar la disposición general de las mesas de trabajo.
+              p.mb-0 Puede mover una mesa de trabajo a una nueva ubicación dentro del lienzo simplemente seleccionándola y arrastrándola al lugar deseado. Esto es útil cuando se necesita reorganizar el contenido de su proyecto o ajustar la disposición general de las mesas de trabajo.
           .row(titulo="Duplicar mesas de trabajo")
             .col-12
-              p.mb-0 con la herramienta seleccionada, mantenga presionada la tecla Alt/Option y arrastre la mesa de trabajo deseada para crear una copia de la misma, conservando todos los elementos contenidos en la original.
+              p.mb-0 Con la herramienta seleccionada, mantenga presionada la tecla Alt/Option y arrastre la mesa de trabajo deseada para crear una copia de la misma, conservando todos los elementos contenidos en la original.
       .col-lg-6(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema2/img6.png', alt='', style='width: 570px').m-auto

@@ -66,7 +66,7 @@
             .col-lg-5
               figure
                 img(src='@/assets/curso/tema3/img7.svg', alt='', style='width: 400px').m-auto
-          .row(titulo="Herramienta Eliminar Punto de Ancla (-)")
+          .row(titulo="Convertir punto de ancla (Shift + C)")
             .col-lg-7.mb-4.mb-lg-0
               p.mb-0 Permite convertir un punto de ancla de esquina en un punto de curva y viceversa.
             .col-lg-5
@@ -82,7 +82,7 @@
                   figure
                     img(src='@/assets/curso/tema3/img9.svg', alt='', style='width: 70px').m-auto
                 .col
-                  p.mb-0 #[b Herramienta curvatura (Mayúscula+~)]
+                  p.mb-0 #[b Herramienta curvatura (Shift + ~)]
                   p.mb-0 Permite dibujar y editar líneas y curvas conectadas fácilmente mediante los nodos o puntos de anclas.
             .col-lg-4
               figure
@@ -118,7 +118,7 @@
                   .col-lg-5.mb-4.mb-lg-0
                     figure.mb-3
                       img(src='@/assets/curso/tema3/img12.svg', alt='', style='width: 60px')
-                    p #[b Herramienta Shaper (Mayúscula+N)]
+                    p #[b Herramienta Shaper (Shift + N)]
                     p.mb-0 Permite dibujar a mano alzada para crear formas vectoriales automáticamente, así como fusionar o eliminar áreas superpuestas.
                   .col-lg-5
                     figure

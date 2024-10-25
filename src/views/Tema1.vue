@@ -117,7 +117,7 @@
         .p-4.bg-c9
           figure.mb-3
             img(src='@/assets/curso/tema1/img6.png', alt='', style='width: 340px').m-auto
-          p.text-center.mb-0 Pase el cursos sobre las herramientas para mostrar una descripción visual de la herramienta.
+          p.text-center.mb-0 Pasar el cursor sobre las herramientas para mostrar una descripción visual de la herramienta.
       .col-11.col-md-6.col-lg-4.mb-4.mb-lg-0(data-aos="fade-down")
         .p-4.bg-c9
           figure.mb-3

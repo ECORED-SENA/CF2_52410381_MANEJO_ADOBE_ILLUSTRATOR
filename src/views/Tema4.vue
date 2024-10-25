@@ -132,9 +132,9 @@
       .col-lg-9(data-aos="fade-left")
         TabsA.color-acento-botones
           .tarjeta.color-acento-botones.p-4(titulo="Texto de punto vertical")
-            p.mb-0 Funciona igual que la herramienta de texto horizontal, pero con el texto alineado verticalmente.
+            p.mb-0 #[b Texto de punto vertical:] funciona igual que la herramienta de texto horizontal, pero con el texto alineado verticalmente.
           .tarjeta.color-acento-botones.p-4(titulo="Texto en área vertical")
-            p.mb-0 Similar a la herramienta de texto en área, pero con orientación vertical. El texto se ajusta dentro del área delimitada, apilando los caracteres de arriba hacia abajo.
+            p.mb-0 #[b Texto en área vertical:] similar a la herramienta de texto en área, pero con orientación vertical. El texto se ajusta dentro del área delimitada, apilando los caracteres de arriba hacia abajo.
     .row.mb-5
       .col-12(data-aos="fade-down")
         .p-4.bg-c24

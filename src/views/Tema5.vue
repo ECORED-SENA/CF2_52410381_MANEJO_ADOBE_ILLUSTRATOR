@@ -172,8 +172,8 @@
                   figure
                     img(src='@/assets/curso/tema5/img14.svg', alt='', style='width: 80px').m-auto
                 .col
-                  p.txt-c1.mb-0 #[b Herramienta medición]
-                  p.txt-c1.mb-0 Para medir la distancia y el ángulo entre dos puntos y crear diseños proporcionados.
+                  p.mb-0 #[b Herramienta medición]
+                  p.mb-0 Para medir la distancia y el ángulo entre dos puntos y crear diseños proporcionados.
             .col-lg-4
               figure
                 img(src='@/assets/curso/tema5/img4.png', alt='', style='width: 400px').m-auto
@@ -211,7 +211,7 @@
               img(src='@/assets/curso/tema5/img16.svg', alt='', style='width: 50px')
           .col
             h3.mb-0 Herramienta bote de pintura interactiva (K)
-    p.mb-4(data-aos="fade-right") Permite rellenar áreas delimitadas por trazados con color, similar a la herramienta de relleno en programas de pintura de mapas de bits.
+    p.mb-4(data-aos="fade-right") Permite rellenar áreas delimitadas por trazados con color, similar a la herramienta de relleno en programas de pintura de mapas de #[i bits].
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-md-8.col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
         figure
@@ -240,8 +240,8 @@
                   figure
                     img(src='@/assets/curso/tema5/img19.svg', alt='', style='width: 80px').m-auto
                 .col
-                  p.txt-c1.mb-0 #[b Herramienta selección de pintura interactiva (Mayúsculas + L)]
-                  p.txt-c1.mb-0 Esta herramienta nos permite seleccionar cada trazo o relleno que se puede tratar de forma independiente dentro de un grupo de pintura interactiva, y aplicarle color, relleno, grosor del trazo, etc.
+                  p.mb-0 #[b Herramienta selección de pintura interactiva (Shift + L)]
+                  p.mb-0 Esta herramienta nos permite seleccionar cada trazo o relleno que se puede tratar de forma independiente dentro de un grupo de pintura interactiva, y aplicarle color, relleno, grosor del trazo, etc.
             .col-lg-4
               figure
                 img(src='@/assets/curso/tema5/img7.png', alt='', style='width: 400px').m-auto

@@ -15,7 +15,7 @@
         .p-4.p-lg-5.bg-c1
           figure.mb-5
             img(src="@/assets/curso/intro/img1.svg", alt="", style="width: 300px")
-          p.mb-0 La barra de herramientas se usa principalmente para crear, seleccionar, manipular, diseminar y transformar objetos. A groso modo, se encuentran herramientas para: seleccionar, dibujar, introducir y editar texto, pintar, reformar, manejo de símbolos, creación y edición de gráficas estadísticas, creación y edición de sectores y corte, así como herramientas para moverse por la mesa de trabajo y hacer zoom sobre ella.
+          p.mb-0 La barra de herramientas se usa principalmente para crear, seleccionar, manipular, diseminar y transformar objetos. A groso modo, se encuentran herramientas para: seleccionar, dibujar, introducir y editar texto, pintar, reformar, manejo de símbolos, creación y edición de gráficas estadísticas, creación y edición de sectores y corte, así como herramientas para moverse por la mesa de trabajo y hacer #[i zoom] sobre ella.
       .col-lg-3(data-aos="fade-left")
         figure
           img(src="@/assets/curso/intro/img2.svg", alt="", style="width: 300px").m-auto

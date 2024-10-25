@@ -211,50 +211,50 @@
               SlyderA(tipo="b")
                 .row.justify-content-center.align-items-center
                   .col-lg-5.mb-4.mb-lg-0
-                    p.txt-c1.mb-0 #[b Herramienta deformar (Mayúsculas + R)]
-                    p.txt-c1.mb-0 Permite dar forma a un objeto hacia adentro o hacia afuera.
+                    p.mb-0 #[b Herramienta deformar (Shift + R)]
+                    p.mb-0 Permite dar forma a un objeto hacia adentro o hacia afuera.
                   .col-lg-5
                     figure
                       img(src='@/assets/curso/tema6/img9.png', alt='', style='width: 500px').m-auto
                 .row.justify-content-center.align-items-center
                   .col-lg-5.mb-4.mb-lg-0
-                    p.txt-c1.mb-0 #[b Herramienta Molinete]
-                    p.txt-c1.mb-0 Permite girar un objeto alrededor de un punto de referencia.
+                    p.mb-0 #[b Herramienta Molinete]
+                    p.mb-0 Permite girar un objeto alrededor de un punto de referencia.
                   .col-lg-5
                     figure
                       img(src='@/assets/curso/tema6/img10.png', alt='', style='width: 500px').m-auto
                 .row.justify-content-center.align-items-center
                   .col-lg-5.mb-4.mb-lg-0
-                    p.txt-c1.mb-0 #[b Herramienta Fruncir]
-                    p.txt-c1.mb-0 Permite estirar o encoger un objeto para darle una apariencia puntiaguda.
+                    p.mb-0 #[b Herramienta Fruncir]
+                    p.mb-0 Permite estirar o encoger un objeto para darle una apariencia puntiaguda.
                   .col-lg-5
                     figure
                       img(src='@/assets/curso/tema6/img11.png', alt='', style='width: 500px').m-auto
                 .row.justify-content-center.align-items-center
                   .col-lg-5.mb-4.mb-lg-0
-                    p.txt-c1.mb-0 #[b Herramienta Engordar]
-                    p.txt-c1.mb-0 Permite estirar o encoger un objeto para darle una apariencia redondeada.
+                    p.mb-0 #[b Herramienta Engordar]
+                    p.mb-0 Permite estirar o encoger un objeto para darle una apariencia redondeada.
                   .col-lg-5
                     figure
                       img(src='@/assets/curso/tema6/img12.png', alt='', style='width: 500px').m-auto
                 .row.justify-content-center.align-items-center
                   .col-lg-5.mb-4.mb-lg-0
-                    p.txt-c1.mb-0 #[b Herramienta Festonear]
-                    p.txt-c1.mb-0 Permite añadir proyecciones redondeadas en el contorno de un objeto.
+                    p.mb-0 #[b Herramienta Festonear]
+                    p.mb-0 Permite añadir proyecciones redondeadas en el contorno de un objeto.
                   .col-lg-5
                     figure
                       img(src='@/assets/curso/tema6/img13.png', alt='', style='width: 500px').m-auto
                 .row.justify-content-center.align-items-center
                   .col-lg-5.mb-4.mb-lg-0
-                    p.txt-c1.mb-0 #[b Herramienta Cristalizar]
-                    p.txt-c1.mb-0 Permite añadir estructuras puntiagudas en el contorno de un objeto.
+                    p.mb-0 #[b Herramienta Cristalizar]
+                    p.mb-0 Permite añadir estructuras puntiagudas en el contorno de un objeto.
                   .col-lg-5
                     figure
                       img(src='@/assets/curso/tema6/img14.png', alt='', style='width: 500px').m-auto
                 .row.justify-content-center.align-items-center
                   .col-lg-5.mb-4.mb-lg-0
-                    p.txt-c1.mb-0 #[b Herramienta Arrugar]
-                    p.txt-c1.mb-0 Permite añadir estructuras arrugadas en el contorno de un objeto.
+                    p.mb-0 #[b Herramienta Arrugar]
+                    p.mb-0 Permite añadir estructuras arrugadas en el contorno de un objeto.
                   .col-lg-5
                     figure
                       img(src='@/assets/curso/tema6/img15.png', alt='', style='width: 500px').m-auto
