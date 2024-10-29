@@ -160,7 +160,7 @@
               .p-4.bg-white.rounded
                 figure.mb-3
                   img(src="@/assets/curso/tema6/img18.svg", alt="", style="width: 70px")
-                p.mb-0 Permite deformar y manipular objetos vectoriales con gran flexibilidad y precisión. Similar a una marioneta, esta herramienta permite añadir puntos de anclaje (pins) a lo largo del objeto, los cuales pueden moverse, rotarse o escalarse para alterar la forma del objeto de manera natural y fluida.
+                p.mb-0 Permite deformar y manipular objetos vectoriales con gran flexibilidad y precisión. Similar a una marioneta, esta herramienta permite añadir puntos de anclaje (#[i pins]) a lo largo del objeto, los cuales pueden moverse, rotarse o escalarse para alterar la forma del objeto de manera natural y fluida.
     .row.mb-4
       .col-auto.bg-c4(data-aos="fade-left")
         .row.align-items-center
