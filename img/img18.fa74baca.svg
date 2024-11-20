@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="295" height="153.547" viewBox="0 0 295 153.547">
+  <g id="Grupo_1101776" data-name="Grupo 1101776" transform="translate(-1125.026 -2848)">
+    <rect id="Rectángulo_403416" data-name="Rectángulo 403416" width="295" height="153.547" rx="4" transform="translate(1125.026 2848)" fill="#d6d8fc"/>
+    <g id="Grupo_1101775" data-name="Grupo 1101775">
+      <g id="Grupo_1101771" data-name="Grupo 1101771" transform="translate(5 -11)">
+        <line id="Línea_609" data-name="Línea 609" y1="88" x2="210" transform="translate(1162.526 2892.5)" fill="none" stroke="#048fe5" stroke-width="2"/>
+        <g id="Rectángulo_403489" data-name="Rectángulo 403489" transform="translate(1160.026 2978)" fill="#fff" stroke="#048fe5" stroke-width="1">
+          <rect width="5" height="5" stroke="none"/>
+          <rect x="0.5" y="0.5" width="4" height="4" fill="none"/>
+        </g>
+        <g id="Rectángulo_403490" data-name="Rectángulo 403490" transform="translate(1370.026 2890)" fill="#fff" stroke="#048fe5" stroke-width="1">
+          <rect width="5" height="5" stroke="none"/>
+          <rect x="0.5" y="0.5" width="4" height="4" fill="none"/>
+        </g>
+      </g>
+      <g id="Grupo_1101774" data-name="Grupo 1101774" transform="translate(-2 -2)">
+        <g id="Grupo_1101772" data-name="Grupo 1101772">
+          <path id="Línea_610" data-name="Línea 610" d="M0,6A1,1,0,0,1-1,5V0A1,1,0,0,1,0-1,1,1,0,0,1,1,0V5A1,1,0,0,1,0,6Z" transform="translate(1384.526 2871.5)" fill="#323232" stroke="#fff" stroke-linecap="round" stroke-width="0.3"/>
+          <path id="Línea_611" data-name="Línea 611" d="M0,6A1,1,0,0,1-1,5V0A1,1,0,0,1,0-1,1,1,0,0,1,1,0V5A1,1,0,0,1,0,6Z" transform="translate(1384.526 2880.5)" fill="#323232" stroke="#fff" stroke-linecap="round" stroke-width="0.3"/>
+        </g>
+        <g id="Grupo_1101773" data-name="Grupo 1101773" transform="translate(4263.026 1493.974) rotate(90)">
+          <path id="Línea_610-2" data-name="Línea 610" d="M0,6A1,1,0,0,1-1,5V0A1,1,0,0,1,0-1,1,1,0,0,1,1,0V5A1,1,0,0,1,0,6Z" transform="translate(1384.526 2871.5)" fill="#323232" stroke="#fff" stroke-linecap="round" stroke-width="0.3"/>
+          <path id="Línea_611-2" data-name="Línea 611" d="M0,6A1,1,0,0,1-1,5V0A1,1,0,0,1,0-1,1,1,0,0,1,1,0V5A1,1,0,0,1,0,6Z" transform="translate(1384.526 2880.5)" fill="#323232" stroke="#fff" stroke-linecap="round" stroke-width="0.3"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
